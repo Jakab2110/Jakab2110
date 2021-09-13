@@ -1,0 +1,11 @@
+#include<iostream>
+#include<string>
+int main()
+{
+int a,b,c;
+std::cout<<"Enter the two values";
+std::cin>>a>>b;
+c=a+b;
+std::cout<<"The sum of the values are"<<c;
+return 0;
+}
